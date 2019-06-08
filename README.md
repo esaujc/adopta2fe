@@ -2,7 +2,7 @@
 
 # Project Name
 
-Adopta2.
+Adopta2. Front End.
 
 ## Description
 
@@ -138,7 +138,7 @@ username - String // required & unique
 email - String // required & unique
 password - String // required
 level - Number
-favorites - [ObjectID<Speeches>]
+favorites - [ObjectID<Events>]
 ```
 
 member model
