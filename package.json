@@ -1,0 +1,38 @@
+{
+  "name": "adopta2fe",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Esau JC",
+    "url": "https://github.com/esaujc"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "dev": "npm run serve"
+  },
+  "dependencies": {
+    "date-fns": "^1.30.1",
+    "dotenv": "^6.2.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "vue": "^2.5.17",
+    "vue-json-excel": "^0.2.98",
+    "vuetify": "^1.5.5"
+  },
+  "devDependencies": {
+    "@mdi/font": "^3.6.95",
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-service": "^3.6.0",
+    "axios": "^0.19.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vue-cli-plugin-vuetify": "^0.5.0",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.17",
+    "vuetify-loader": "^1.0.5",
+    "vuex": "^3.0.1",
+    "vuex-router-sync": "^5.0.0",
+    "querystringify": ">=2.0.0"
+  }
+}
