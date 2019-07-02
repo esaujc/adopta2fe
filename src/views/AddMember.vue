@@ -1,8 +1,5 @@
 <template>
 <div>
-{{memberData.id}}
-{{memberData.name}}
-
   <v-form
     ref="form"
     v-model="valid"
@@ -77,11 +74,11 @@
     <v-stepper-items>
       <v-stepper-content step="1">
         <v-text-field
-      v-model="name"
+      v-model="memberId"
       :counter="10"
-      :rules="nameRules"
+      :rules="memberIdRules"
       label="Número de Socio"
-      :key="memberName"
+      :key="memberIdNumber"
       required
     ></v-text-field>
 
@@ -96,6 +93,35 @@
       label="Tiene número de Socio?"
       required
     ></v-checkbox>
+
+    <v-layout row wrap>
+    <v-flex xs12 sm6>
+      <v-date-picker v-model="picker" color="green lighten-1"></v-date-picker>
+    </v-flex>
+    <v-flex xs12 sm6>
+    <v-menu
+        v-model="menu2"
+        :close-on-content-click="false"
+        :nudge-right="40"
+        lazy
+        transition="scale-transition"
+        offset-y
+        full-width
+        min-width="290px"
+      >
+        <template v-slot:activator="{ on }">
+          <v-text-field
+            v-model="date"
+            label="Picker without buttons"
+            prepend-icon="event"
+            readonly
+            v-on="on"
+          ></v-text-field>
+        </template>
+        <v-date-picker v-model="date" @input="menu2 = false"></v-date-picker>
+      </v-menu>
+    </v-flex>
+  </v-layout>
 
     <v-text-field
       v-model="memberId"
@@ -200,7 +226,13 @@ export default {
         'Item 4'
       ],
       checkboxActive: true,
-      checkboxHasMembershipId: false
+      checkboxHasMembershipId: false,
+
+      picker: new Date().toISOString().substr(0, 10),
+      picker2: new Date().toISOString().substr(0, 10),    
+      menu: false,
+      modal: false,
+      menu2: false
 
     }),  
 

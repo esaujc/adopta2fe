@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="11px" viewBox="0 0 20 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icons/icon_arrowbig</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="components/nav_bar_equipos_open" transform="translate(-226.000000, -35.000000)">
+            <g id="icons/icon_arrowbig" transform="translate(216.000000, 20.000000)">
+                <g id="round-expand_more-24px">
+                    <polygon id="Path" opacity="0.87" points="40 40 0 40 0 0 40 0"></polygon>
+                    <path d="M26.4666667,15.4833333 L20,21.95 L13.5333333,15.4833333 C12.8833333,14.8333333 11.8333333,14.8333333 11.1833333,15.4833333 C10.5333333,16.1333333 10.5333333,17.1833333 11.1833333,17.8333333 L18.8333333,25.4833333 C19.4833333,26.1333333 20.5333333,26.1333333 21.1833333,25.4833333 L28.8333333,17.8333333 C29.4833333,17.1833333 29.4833333,16.1333333 28.8333333,15.4833333 C28.1833333,14.85 27.1166667,14.8333333 26.4666667,15.4833333 L26.4666667,15.4833333 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

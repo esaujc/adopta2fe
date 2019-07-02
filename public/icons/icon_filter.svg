@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="21px" viewBox="0 0 19 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icons/icon_filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.1019044,17.3583368 L18.1339347,24.2129251 C18.135532,24.5547458 17.9624212,24.8737017 17.6749373,25.0586258 L16.1930298,26.0118636 C15.7285429,26.310645 15.1097917,26.1763142 14.8110102,25.7118273 C14.7077093,25.5512353 14.6525463,25.3644249 14.6520417,25.1734783 L14.6313883,17.3583368 L8.04657367,7.55768986 C7.73857006,7.09926624 7.86050958,6.4779542 8.31893321,6.16995059 C8.48382301,6.05916517 8.67797248,6 8.87662307,6 L24.0866445,6 C24.6389293,6 25.0866445,6.44771525 25.0866445,7 C25.0866445,7.20410655 25.0241881,7.40332567 24.9076635,7.570901 L18.1019044,17.3583368 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="components/nav_equipos/buscador" transform="translate(-1015.000000, -30.000000)">
+            <g id="icons/icon_filter" transform="translate(1008.000000, 24.000000)">
+                <g id="round-filter_list-24px">
+                    <polygon id="Path" points="0 0 32 0 32 32 0 32"></polygon>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Path" fill="#F68221" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Colors/Gray01" mask="url(#mask-2)" fill="#606060" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

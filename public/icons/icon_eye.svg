@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icons/icon_eye</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="components/nav_bar_equipos_open" transform="translate(-18.000000, -29.000000)">
+            <g id="icons/icon_eye" transform="translate(16.000000, 24.000000)">
+                <g id="Group-4">
+                    <polygon id="Path" points="0.666666667 0 32.6666667 0 32.6666667 32 0.666666667 32"></polygon>
+                    <path d="M16.6666667,5 C10,5 4.30666667,9.14666667 2,15 C4.30666667,20.8533333 10,25 16.6666667,25 C23.3333333,25 29.0266667,20.8533333 31.3333333,15 C29.0266667,9.14666667 23.3333333,5 16.6666667,5 Z M16.6666667,21.6666667 C12.9866667,21.6666667 10,18.68 10,15 C10,11.32 12.9866667,8.33333333 16.6666667,8.33333333 C20.3466667,8.33333333 23.3333333,11.32 23.3333333,15 C23.3333333,18.68 20.3466667,21.6666667 16.6666667,21.6666667 Z M16.6666667,11 C14.4533333,11 12.6666667,12.7866667 12.6666667,15 C12.6666667,17.2133333 14.4533333,19 16.6666667,19 C18.88,19 20.6666667,17.2133333 20.6666667,15 C20.6666667,12.7866667 18.88,11 16.6666667,11 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

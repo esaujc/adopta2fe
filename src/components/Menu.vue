@@ -63,11 +63,11 @@ export default {
     searchOutput: "search output",
     handlerOutput: "handlerOutput",
     items: [
-      { icon: "account_balance", text: "Members", to: '/members' },
+      { icon: "baseline-people-24px", text: "Members", to: '/members' },
       { icon: "record_voice_over", text: "About", handler: "this.handle2Click", to: '/about' },
       { divider: true },
       { heading: "Labels" },
-      { icon: "add", text: "Create new label", handler: "this.handleAdd" },
+      { icon: "add", text: "Nuevo Socio", to: '/members/add' },
       { divider: true },
       { icon: "archive", text: "Archive", handler: "this.handleArchive" },
       { icon: "delete", text: "Trash", handler: "this.handleDelete" },

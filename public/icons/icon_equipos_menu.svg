@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icons/menu/icon_equipos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.7727719,4.53333333 C15.2894877,3.68 16.508407,3.68 17.0251228,4.53333333 L21.9405474,12.64 C22.4837614,13.52 21.8478035,14.6666667 20.8143719,14.6666667 L10.9702737,14.6666667 C9.93684211,14.6666667 9.30088421,13.52 9.84409825,12.64 L14.7727719,4.53333333 Z M23.1859649,29.3333333 C19.8931851,29.3333333 17.2238596,26.6470418 17.2238596,23.3333333 C17.2238596,20.0196248 19.8931851,17.3333333 23.1859649,17.3333333 C26.4787447,17.3333333 29.1480702,20.0196248 29.1480702,23.3333333 C29.1480702,26.6470418 26.4787447,29.3333333 23.1859649,29.3333333 Z M5.29964912,28.6666667 C4.57094737,28.6666667 3.97473684,28.0666667 3.97473684,27.3333333 L3.97473684,19.3333333 C3.97473684,18.6 4.57094737,18 5.29964912,18 L13.2491228,18 C13.9778246,18 14.5740351,18.6 14.5740351,19.3333333 L14.5740351,27.3333333 C14.5740351,28.0666667 13.9778246,28.6666667 13.2491228,28.6666667 L5.29964912,28.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="components/menu" transform="translate(-47.000000, -99.000000)">
+            <g id="Group-2">
+                <g id="icons/menu/icon_equipos" transform="translate(44.000000, 96.000000)">
+                    <g id="round-category-24px" transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 31.7978947 0 31.7978947 32 0 32"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colors/White" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

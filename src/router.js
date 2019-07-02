@@ -17,6 +17,11 @@ export default new Router({
       component: () => import('./views/Members.vue')
     },
     {
+      path: '/members/add',
+      name: 'AddMember',
+      component: () => import('./views/AddMember.vue')
+    },
+    {
       path: '/about',
       name: 'About',
       // route level code-splitting

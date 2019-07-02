@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="9px" viewBox="0 0 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icons/icon_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.1733333,12.3866667 L16,17.56 L10.8266667,12.3866667 C10.3066667,11.8666667 9.46666667,11.8666667 8.94666667,12.3866667 C8.42666667,12.9066667 8.42666667,13.7466667 8.94666667,14.2666667 L15.0666667,20.3866667 C15.5866667,20.9066667 16.4266667,20.9066667 16.9466667,20.3866667 L23.0666667,14.2666667 C23.5866667,13.7466667 23.5866667,12.9066667 23.0666667,12.3866667 C22.5466667,11.88 21.6933333,11.8666667 21.1733333,12.3866667 L21.1733333,12.3866667 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="components/nav_bar_equipos_open" transform="translate(-1264.000000, -35.000000)">
+            <g id="Group" transform="translate(1152.000000, 24.000000)">
+                <g id="icons/icon_arrow" transform="translate(120.000000, 16.000000) scale(1, -1) translate(-120.000000, -16.000000) translate(104.000000, 0.000000)">
+                    <g id="round-expand_more-24px">
+                        <polygon id="Path" opacity="0.87" points="32 32 0 32 0 0 32 0"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Path" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colors/White" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

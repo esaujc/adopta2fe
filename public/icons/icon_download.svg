@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="23px" viewBox="0 0 20 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icons/icon_download</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 32 0 32 32 0 32"></polygon>
+        <path d="M22.12,13.3333333 L20,13.3333333 L20,6.66666667 C20,5.93333333 19.4,5.33333333 18.6666667,5.33333333 L13.3333333,5.33333333 C12.6,5.33333333 12,5.93333333 12,6.66666667 L12,13.3333333 L9.88,13.3333333 C8.69333333,13.3333333 8.09333333,14.7733333 8.93333333,15.6133333 L15.0533333,21.7333333 C15.5733333,22.2533333 16.4133333,22.2533333 16.9333333,21.7333333 L23.0533333,15.6133333 C23.8933333,14.7733333 23.3066667,13.3333333 22.12,13.3333333 Z M6.66666667,26.6666667 C6.66666667,27.4 7.26666667,28 8,28 L24,28 C24.7333333,28 25.3333333,27.4 25.3333333,26.6666667 C25.3333333,25.9333333 24.7333333,25.3333333 24,25.3333333 L8,25.3333333 C7.26666667,25.3333333 6.66666667,25.9333333 6.66666667,26.6666667 Z" id="path-3"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="components/nav_equipos/buscador" transform="translate(-950.000000, -29.000000)">
+            <g id="components/nav_equipos">
+                <g id="icons/icon_download" transform="translate(944.000000, 24.000000)">
+                    <g id="Group-17">
+                        <g id="round-get_app-24px">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Path"></g>
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Shape" fill="#4E4E4E" fill-rule="nonzero" xlink:href="#path-3"></use>
+                            <g id="Colors/Gray01" mask="url(#mask-4)" fill="#606060" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
